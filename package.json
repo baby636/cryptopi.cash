@@ -16,7 +16,7 @@
     "gatsby-source-filesystem": "^2.3.11",
     "gatsby-transformer-json": "^2.4.5",
     "gatsby-transformer-remark": "^2.8.15",
-    "ipfs": "^0.52.2",
+    "ipfs": "^0.61.0",
     "node-sass": "^4.14.1",
     "react": "^16.13.1",
     "react-collapsible": "^2.8.0",
